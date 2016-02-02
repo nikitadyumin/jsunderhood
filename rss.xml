@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Сайт @jsunderhood]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю]]></description>
+        <link>https://jsunderhood.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 14:21:14 GMT</lastBuildDate>
+        <atom:link href="https://jsunderhood.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[chorna_kiwka]]></title>
+            <description><![CDATA[<p>Здравствуйте! На этой неделе с вами <a href="https://twitter.com/chorna_kiwka" title="Olena Sovyn">@chorna_kiwka</a>, мидл фронт-енд разработчик киевского офиса <a href="https://twitter.com/EPAMSYSTEMS" title="EPAM Systems">@EPAMSYSTEMS</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/chorna_kiwka/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/chorna_kiwka/</guid>
+            <pubDate>Mon, 25 Jan 2016 09:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[krasivieglaza]]></title>
+            <description><![CDATA[<p>Салют! На этой недели с вами Сережа Панфилов  <a href="https://twitter.com/krasivieglaza" title="Sergei Panfilov">@krasivieglaza</a>, фронтэнд в МаксимаТелеком.</p>
+]]></description>
+            <link>https://jsunderhood.ru/krasivieglaza/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/krasivieglaza/</guid>
+            <pubDate>Mon, 18 Jan 2016 10:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alexeyraspopov]]></title>
+            <description><![CDATA[<p>Привет! Разработчик снова начинает свое вещание.<br />
+На этой неделе с вами Алексей Распопов (<a href="https://twitter.com/alexeyraspopov" title="Alexey Raspopov">@alexeyraspopov</a>) Frontend разработчик из <a href="https://twitter.com/DataRobot" title="DataRobot">@DataRobot</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/alexeyraspopov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/alexeyraspopov/</guid>
+            <pubDate>Mon, 11 Jan 2016 12:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[viatsko]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами Валерий Яцко <a href="https://twitter.com/viatsko" title="Valerii Iatsko">@viatsko</a>. Живу в Амстердаме, работаю в <a href="https://t.co/upRxJE4a7q" title="http://Booking.com">Booking.com</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/viatsko/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/viatsko/</guid>
+            <pubDate>Mon, 21 Dec 2015 13:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rdvornov]]></title>
+            <description><![CDATA[<p>Всем привет! На этой неделе с вами буду я, Роман Дворнов <a href="https://twitter.com/rdvornov" title="Roman Dvornov">@rdvornov</a><br />
+Работаю в Avito, основной интерес – SPA и смежные задачи</p>
+]]></description>
+            <link>https://jsunderhood.ru/rdvornov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/rdvornov/</guid>
+            <pubDate>Mon, 14 Dec 2015 10:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2j2e]]></title>
+            <description><![CDATA[<p>Новая неделя, новый ведущий, с вами в эфире <a href="https://twitter.com/2j2e" title="Eugene Zharkov">@2j2e</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/2j2e/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/2j2e/</guid>
+            <pubDate>Mon, 07 Dec 2015 07:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YodaPunk]]></title>
+            <description><![CDATA[<p>На этой неделе свежий взгляд на построение сложнейших динамичных систем, клеймление react и прочих модностей. На связи <a href="https://twitter.com/YodaPunk" title="Gleb Arestov">@YodaPunk</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/YodaPunk/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/YodaPunk/</guid>
+            <pubDate>Mon, 30 Nov 2015 06:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[operatino]]></title>
+            <description><![CDATA[<p>Всем привет! Следующие 7 дней с вами на связи Роберт Харитонов <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>. Руковожу командой разработки, последний год живу в Амстердаме.</p>
+]]></description>
+            <link>https://jsunderhood.ru/operatino/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/operatino/</guid>
+            <pubDate>Mon, 23 Nov 2015 08:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[touzoku]]></title>
+            <description><![CDATA[<p>Привет! Немного запоздало в эфире появляется <a href="https://twitter.com/MaratVy" title="Marat Vyshegorodtsev">@MaratVy</a> (англ. твиттер про инфосек) или <a href="https://twitter.com/touzoku" title="マラット ">@touzoku</a> (русск. твиттер про Японию)</p>
+]]></description>
+            <link>https://jsunderhood.ru/touzoku/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/touzoku/</guid>
+            <pubDate>Tue, 17 Nov 2015 13:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mr_mig_by]]></title>
+            <description><![CDATA[<p>Доброе утро, на этой неделе троллить вас будет <a href="https://twitter.com/mr_mig_by" title="Alexey Migutsky">@mr_mig_by</a>. Разрабатываю всё (&quot;полный стек&quot;), специализируюсь на фронтэнде. Знатный траль.</p>
+]]></description>
+            <link>https://jsunderhood.ru/mr_mig_by/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/mr_mig_by/</guid>
+            <pubDate>Mon, 09 Nov 2015 09:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[milk_is_my_life]]></title>
+            <description><![CDATA[<p>Всем привет! С вами в эфире <a href="https://twitter.com/milk_is_my_life" title="Sebastyan Pereiro">@milk_is_my_life</a>. Последние 6 лет я занимаюсь фронтэндом, работаю в SPB TV.</p>
+]]></description>
+            <link>https://jsunderhood.ru/milk_is_my_life/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/milk_is_my_life/</guid>
+            <pubDate>Mon, 02 Nov 2015 07:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[oleg008]]></title>
+            <description><![CDATA[<p>Привет, на этой неделе с вами <a href="https://twitter.com/oleg008" title="Oleg Slobodskoi">@oleg008</a>. Я занимаюсь фронтендом, раньше  также писал на ноде. Работаю на <a href="https://twitter.com/chatgrapecom" title="ChatGrape">@chatgrapecom</a>.</p>
+]]></description>
+            <link>https://jsunderhood.ru/oleg008/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/oleg008/</guid>
+            <pubDate>Mon, 26 Oct 2015 09:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[boriscoder]]></title>
+            <description><![CDATA[<p>Привет, эту неделю проведу с вами я,  <a href="https://twitter.com/boriscoder" title="just-boris">@boriscoder</a>. Я работаю в отделе тестирования Яндекса и мы будем говорить о тестировании.</p>
+]]></description>
+            <link>https://jsunderhood.ru/boriscoder/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/boriscoder/</guid>
+            <pubDate>Mon, 19 Oct 2015 12:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lik04ka]]></title>
+            <description><![CDATA[<p>Всем хорошего вечера! Эту неделю с вами буду я, Василика! %) <a href="https://twitter.com/Lik04ka" title="Климова Василика">@Lik04ka</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/Lik04ka/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/Lik04ka/</guid>
+            <pubDate>Mon, 12 Oct 2015 15:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[flackus]]></title>
+            <description><![CDATA[<p>На этой неделе с вами <a href="https://twitter.com/flackus" title="Alex Rybakov">@flackus</a>. Петербуржец, разработчик интерфейсов в Яндексе. Делаем рантайм на node.js и бухаем винчик.</p>
+]]></description>
+            <link>https://jsunderhood.ru/flackus/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/flackus/</guid>
+            <pubDate>Mon, 05 Oct 2015 09:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[edjafarov]]></title>
+            <description><![CDATA[<p>Привет, этой неделе с вами будет <a href="https://twitter.com/edjafarov" title="Eldar Djafarov ッ">@edjafarov</a>, меня зовут Эльдар и я люблю Javascript</p>
+]]></description>
+            <link>https://jsunderhood.ru/edjafarov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/edjafarov/</guid>
+            <pubDate>Mon, 28 Sep 2015 06:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[azproduction]]></title>
+            <description><![CDATA[<p>Привет! Эту неделю с вами <a href="https://twitter.com/azproduction" title="Mikhail Davydov">@azproduction</a> Живу в Берлине до этого работал в Яндексе. Раньше много писал про JS, сейчас пишу на React &amp; Co.</p>
+]]></description>
+            <link>https://jsunderhood.ru/azproduction/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/azproduction/</guid>
+            <pubDate>Mon, 21 Sep 2015 09:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ihorzenich]]></title>
+            <description><![CDATA[<p>Доброе утро, эту неделю в эфире <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> знакомый вам по <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Игорь Зенич <a href="https://twitter.com/delaz" title="Igor Zenich">@delaz</a>, но уже не из <a href="https://twitter.com/iDeus_team" title="iDeus">@iDeus_team</a>, а <a href="https://twitter.com/EpamKharkiv" title="Epam Kharkiv">@EpamKharkiv</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/ihorzenich/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/ihorzenich/</guid>
+            <pubDate>Mon, 14 Sep 2015 06:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[__fro]]></title>
+            <description><![CDATA[<p>Всем бодрого утречка! На этой неделе командовать парадом будет <a href="https://twitter.com/__fro" title="Alexey Frolov">@__fro</a>! )</p>
+]]></description>
+            <link>https://jsunderhood.ru/__fro/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/__fro/</guid>
+            <pubDate>Mon, 07 Sep 2015 07:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RReverser]]></title>
+            <description><![CDATA[<p>London is the capital of Great Britain, ой, то есть привет! С вами <a href="https://twitter.com/RReverser" title="Ingvar Stepanyan">@RReverser</a> и я буду занудствовать о JS с точки зрения девтулзов :)</p>
+]]></description>
+            <link>https://jsunderhood.ru/RReverser/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/RReverser/</guid>
+            <pubDate>Mon, 31 Aug 2015 02:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[neonick]]></title>
+            <description><![CDATA[<p>Приветствую вас, на этой неделе у руля <a href="https://twitter.com/neonick" title="Nick Marchenko">@neonick</a>. Мы поговорим о здоровье, саморазвитии, рефлексии, фрилансе и о многом другом. Stay tuned.</p>
+]]></description>
+            <link>https://jsunderhood.ru/neonick/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/neonick/</guid>
+            <pubDate>Mon, 24 Aug 2015 12:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pepelsbey]]></title>
+            <description><![CDATA[<p>Привет! С вами сегодня и всю неделю <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>, он же Вадим Макеев в прямом эфире из Осло, см. глобус Европы <a href="http://t.co/clb7TLnxZS">pic.twitter.com/clb7TLnxZS</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/pepelsbey/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/pepelsbey/</guid>
+            <pubDate>Mon, 17 Aug 2015 09:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[23ydobemos]]></title>
+            <description><![CDATA[<p>Привет, эту неделю c вами проведу я — <a href="https://twitter.com/23ydobemos" title="Ilya Zayats">@23ydobemos</a>. Жители Петербурга могут знать меня как соорганизатора <a href="https://twitter.com/spb_frontend" title="SPB Frontend">@spb_frontend</a> и, когда-то, <a href="https://twitter.com/spbruby" title="Ruby Питер">@spbruby</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/23ydobemos/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/23ydobemos/</guid>
+            <pubDate>Mon, 10 Aug 2015 08:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[freiksenet]]></title>
+            <description><![CDATA[<p>В Финляндии неожиданно началось лето, а тут начался <a href="https://twitter.com/freiksenet" title="freiksenet">@freiksenet</a>. Привет уютному чату!</p>
+]]></description>
+            <link>https://jsunderhood.ru/freiksenet/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/freiksenet/</guid>
+            <pubDate>Mon, 03 Aug 2015 05:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pixelscommander]]></title>
+            <description><![CDATA[<p>Привет! Меня зовут Денис и последние 3 недели я искал JS вокруг Черного Моря. Оказалось в Грузии никто не пишет на JS, там пишут на бумаге</p>
+]]></description>
+            <link>https://jsunderhood.ru/pixelscommander/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/pixelscommander/</guid>
+            <pubDate>Mon, 27 Jul 2015 08:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[deepsweet]]></title>
+            <description><![CDATA[<p>всем привет, эту неделю с вами будет <a href="https://twitter.com/deepsweet" title=" k i r">@deepsweet</a>. меня зовут Кир, кто-то может помнить меня по Яндексу, для остальных я просто JS-разработчик</p>
+]]></description>
+            <link>https://jsunderhood.ru/deepsweet/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/deepsweet/</guid>
+            <pubDate>Mon, 20 Jul 2015 02:32:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[andreypopp]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами <a href="https://twitter.com/andreypopp" title="Andrey Popp">@andreypopp</a>. Занимаюсь разработкой на JS/Python. С недавнего времени живу в Санкт-Петербурге.</p>
+]]></description>
+            <link>https://jsunderhood.ru/andreypopp/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/andreypopp/</guid>
+            <pubDate>Mon, 13 Jul 2015 08:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mistakster]]></title>
+            <description><![CDATA[<p>Доброе утро! Следующие 7 дней этим аккаунтом буду рулить я — Владимир Кузнецов. Мне 37 лет. Живу в Челябинске.</p>
+]]></description>
+            <link>https://jsunderhood.ru/mistakster/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/mistakster/</guid>
+            <pubDate>Mon, 06 Jul 2015 07:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[floatdrop]]></title>
+            <description><![CDATA[<p>Йоханга! На этой неделе с вами <a href="https://twitter.com/floatdrop" title="Vsevolod S.">@floatdrop</a> - я занимаюсь разработкой на <a href="https://twitter.com/nodejs" title="node js">@nodejs</a> в <a href="https://twitter.com/yandex" title="Яндекс">@yandex</a> и немного фронтендом.</p>
+]]></description>
+            <link>https://jsunderhood.ru/floatdrop/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/floatdrop/</guid>
+            <pubDate>Mon, 29 Jun 2015 06:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dan_abramov]]></title>
+            <description><![CDATA[<p>Привет! Меня зовут <a href="https://twitter.com/dan_abramov" title="Dan Abramov">@dan_abramov</a>. Я веду <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на этой неделе.</p>
+]]></description>
+            <link>https://jsunderhood.ru/dan_abramov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/dan_abramov/</guid>
+            <pubDate>Mon, 22 Jun 2015 09:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[asktwi]]></title>
+            <description><![CDATA[<p>Всем привет! По адскому стечению обстоятельств аккаунт попал ко мне, <a href="https://twitter.com/asktwi" title="Anna">@asktwi</a></p>
+]]></description>
+            <link>https://jsunderhood.ru/asktwi/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/asktwi/</guid>
+            <pubDate>Mon, 15 Jun 2015 03:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alekseykulikov_]]></title>
+            <description><![CDATA[<p>Всем привет!<br />
+На этой неделе с вами Алексей (<a href="https://twitter.com/Ask_11" title="Aleksey Kulikov">@Ask_11</a>). Я фрилансер, JS разработчик, живу в Словении.</p>
+]]></description>
+            <link>https://jsunderhood.ru/alekseykulikov_/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/alekseykulikov_/</guid>
+            <pubDate>Mon, 08 Jun 2015 07:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i_komarov]]></title>
+            <description><![CDATA[<p>Привет. Я <a href="https://twitter.com/i_komarov" title="Ivan Komarov">@i_komarov</a>, и эта неделя для <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> будет экспериментальной, потому что я не имею отношения ни к JS, ни к фронтенду вообще.</p>
+]]></description>
+            <link>https://jsunderhood.ru/i_komarov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/i_komarov/</guid>
+            <pubDate>Mon, 01 Jun 2015 10:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[listochkin]]></title>
+            <description><![CDATA[<p>Хо-хо!  Всем привет! Я - Андрей <a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> Разработчик из Киева, люблю JavaScript. Эту неделю я с вами :)</p>
+]]></description>
+            <link>https://jsunderhood.ru/listochkin/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/listochkin/</guid>
+            <pubDate>Mon, 25 May 2015 13:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[subzey]]></title>
+            <description><![CDATA[<p>-~/-~/-~/-~/-~/-~/</p>
+]]></description>
+            <link>https://jsunderhood.ru/subzey/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/subzey/</guid>
+            <pubDate>Mon, 18 May 2015 00:27:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bashmish]]></title>
+            <description><![CDATA[<p>Вы уже отошли от затянувшихся выходных и отпусков? Тогда я <a href="https://twitter.com/bashmish" title="Misha Bashkirov">@bashmish</a> рад буду пообщаться с вами на этой неделе тут :)</p>
+]]></description>
+            <link>https://jsunderhood.ru/bashmish/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/bashmish/</guid>
+            <pubDate>Mon, 11 May 2015 06:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sudodoki]]></title>
+            <description><![CDATA[<p>На этой неделе управление этим аккаунтом доверили мне, <a href="https://twitter.com/sudodoki" title="Джон, просто Джон">@sudodoki</a> - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне.</p>
+]]></description>
+            <link>https://jsunderhood.ru/sudodoki/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/sudodoki/</guid>
+            <pubDate>Tue, 28 Apr 2015 00:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pukhalski]]></title>
+            <description><![CDATA[<p>Доброе утро всем в этом чатике! Целую неделю вам предстоит терпеть меня, <a href="https://twitter.com/pukhalski" title="llya Pukhalski">@pukhalski</a>, в эфире <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>. Поехали!</p>
+]]></description>
+            <link>https://jsunderhood.ru/pukhalski/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/pukhalski/</guid>
+            <pubDate>Mon, 20 Apr 2015 07:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lomakin]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Александр Ломакин. Я руковожу веб-разработкой в Rambler Digital Solutions.</p>
+]]></description>
+            <link>https://jsunderhood.ru/lomakin/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/lomakin/</guid>
+            <pubDate>Mon, 13 Apr 2015 12:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mraleph]]></title>
+            <description><![CDATA[<p>всем привет! меня зовут Вячеслав и эту неделю я вещаю из под капота JS - здесь темно и повсюду C++... отвечаю на вопросы про V8 и перформанс</p>
+]]></description>
+            <link>https://jsunderhood.ru/mraleph/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/mraleph/</guid>
+            <pubDate>Sun, 05 Apr 2015 23:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[awinogradov]]></title>
+            <description><![CDATA[<p>Всем привет!;) Меня зовут Антон Виноградов. Я разработчик интерфейсов в Альфа-Банке. На целую неделю я с вами. Пишем не стесняемся)</p>
+]]></description>
+            <link>https://jsunderhood.ru/awinogradov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/awinogradov/</guid>
+            <pubDate>Mon, 30 Mar 2015 07:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[veged]]></title>
+            <description><![CDATA[<p>всем привет! это <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a> c вами на ближайшую неделю</p>
+]]></description>
+            <link>https://jsunderhood.ru/veged/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/veged/</guid>
+            <pubDate>Mon, 23 Mar 2015 12:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[korochinskiy]]></title>
+            <description><![CDATA[<p>Привет! Эту неделю этот твиттер буду вести я, <a href="https://twitter.com/korochinskiy" title="Антон Корочинский">@korochinskiy</a>. Писать я, наверно, буду меньше, потому что много чего уже сказано.</p>
+]]></description>
+            <link>https://jsunderhood.ru/korochinskiy/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/korochinskiy/</guid>
+            <pubDate>Mon, 16 Mar 2015 09:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[toivonens]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами я, <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>. Наконец-то добавила аккаунт во все свои устройства.</p>
+]]></description>
+            <link>https://jsunderhood.ru/toivonens/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/toivonens/</guid>
+            <pubDate>Mon, 09 Mar 2015 10:48:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[roman01la]]></title>
+            <description><![CDATA[<p>Привет. На этой неделе здесь я — <a href="https://twitter.com/roman01la" title="λ [Roman Liutikov]">@roman01la</a>. Будем говорить о парном программировании, функциональном JS, о доступности и других штуках.</p>
+]]></description>
+            <link>https://jsunderhood.ru/roman01la/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/roman01la/</guid>
+            <pubDate>Mon, 02 Mar 2015 10:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iamstarkov]]></title>
+            <description><![CDATA[<p>Привет, котаны! На этой неделе твиттер буду @matmuchrapna. Буду рассказывать про git, atom, gulp, отношения и про всё остальное</p>
+]]></description>
+            <link>https://jsunderhood.ru/iamstarkov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/iamstarkov/</guid>
+            <pubDate>Mon, 23 Feb 2015 10:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[filipovskii]]></title>
+            <description><![CDATA[<p>Эту неделю буду вести аккаунт я, <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a>. Full-stack кодер, организатор <a href="https://twitter.com/moscowjs" title="MoscowJS">@moscowjs</a>, со-ведущий <a href="https://twitter.com/RadioJSPodcast" title="RadioJS Podcast">@RadioJSPodcast</a>, сёрфер-любитель. Привет!</p>
+]]></description>
+            <link>https://jsunderhood.ru/filipovskii/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/filipovskii/</guid>
+            <pubDate>Mon, 09 Feb 2015 08:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shuvalov_anton]]></title>
+            <description><![CDATA[<p>@matmuchrapna <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a> <a href="https://twitter.com/filipovskii" title="Andrey Salomatin">@filipovskii</a> <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> го в <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>, я создал! :D</p>
+]]></description>
+            <link>https://jsunderhood.ru/shuvalov_anton/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/shuvalov_anton/</guid>
+            <pubDate>Tue, 03 Feb 2015 07:43:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
